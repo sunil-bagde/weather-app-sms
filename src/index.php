@@ -14,7 +14,7 @@ in production pls Keep data in .env
 $weatherApiKey = 'b385aa7d4e568152288b3c9f5c2458a5';
 $smsToken = 'df2a5e00-53b5-4d9f-b946-39029aa168ac';
 $toName = 'Sunil';
-$phone = '+919619193692';
+$phone = '+30 6978745957';
 
 $client = new CurlClient;
 $location = new Location('Thessaloniki');
