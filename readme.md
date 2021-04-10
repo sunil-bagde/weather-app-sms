@@ -14,3 +14,9 @@ $ composer install
 
 $ ./vendor/bin/phpunit tests --colors
 ```
+
+```sh
+# Run
+
+$ php src/index.php
+```
