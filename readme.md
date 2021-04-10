@@ -13,7 +13,4 @@ $ composer install
 # Tests
 
 $ ./vendor/bin/phpunit tests --colors
-
 ```
-# weather-app-sms
-# weather-app-sms
