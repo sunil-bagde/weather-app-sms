@@ -3,7 +3,7 @@
 ## setup
 
 ```sh
-cd routee-weather-notifier
+cd into project 
 
 $ composer install
 
